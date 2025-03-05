@@ -3,10 +3,10 @@ import time
 import requests
 
 # Configurações
-PASTA_MONITORADA = r"\\192.168.1.5\pedidos\Atria_volta"
+PASTA_MONITORADA = r"\\caminho da pasta monitorada"
 LIMITE_ARQUIVOS = 100
-TOKEN = "7726313493:AAGClqu1-CfU_1LyFTe97yR7154YZHsy5rI"  # Substitua pelo seu token
-CHAT_ID = "-1002305832512"  # Substitua pelo seu chat_id
+TOKEN = "????"  # Substitua pelo seu token
+CHAT_ID = "-?????"  # Substitua pelo seu chat_id
 
 def enviar_telegram(mensagem):
     url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
