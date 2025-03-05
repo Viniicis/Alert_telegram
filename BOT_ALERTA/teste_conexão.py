@@ -1,7 +1,7 @@
 import requests
 
-TOKEN = "7726313493:AAGClqu1-CfU_1LyFTe97yR7154YZHsy5rI"  # Substitua pelo seu token
-CHAT_ID = "5074848313"  # Substitua pelo seu chat_id
+TOKEN = "????"  # Substitua pelo seu token
+CHAT_ID = "????"  # Substitua pelo seu chat_id
 
 def enviar_telegram(mensagem):
     url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
