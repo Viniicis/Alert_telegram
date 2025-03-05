@@ -3,8 +3,8 @@ import shutil
 import time
 
 # Configurações
-diretorio_monitorado = r"\\192.168.1.5\pedidos\Atria_volta"
-diretorio_secundario = r"\\192.168.1.5\pedidos\Atria Volta_Hem"
+diretorio_monitorado = r"caminho da pasta"
+diretorio_secundario = r"caminho da pasta"
 limite_arquivos = 110
 intervalo_verificacao = 10
 
