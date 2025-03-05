@@ -19,3 +19,4 @@ Substitua "-?????" pelo CHAT_ID do grupo ou usuário que receberá as mensagens.
 Ajuste o limite de arquivos:
 
 Modifique a variável LIMITE_ARQUIVOS para definir o número máximo de arquivos .ENV antes de disparar o alerta.
+![image](https://github.com/user-attachments/assets/fd80869b-bdae-4a87-bec9-f9e3909e0f7b)
